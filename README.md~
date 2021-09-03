@@ -1,6 +1,6 @@
-[![Angelo's GitHub Banner](./assets/github_banner.png)]
+<img align="center" alt="Angelo's GitHub Banner" src="./assets/github_banner.png">
 
-###✨ Hi ✨
+### Hi 👋
 I'm **Angelo Casciani**, a passionate student currently enrolled in the **course name** MSc at the *University of *.
 🎓 Graduated with a BSc in **Information Engineering** BSc at the *University of L'Aquila*.
 🎯 What do I want to do? My dream is to work in the field of Artificial Intelligence.
@@ -10,10 +10,11 @@ I'm **Angelo Casciani**, a passionate student currently enrolled in the **course
 ## 📈 GitHub Stats
 [![angelo's github stats](https://github-readme-stats.vercel.app/api?username=AngeloC99&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💻 Skills
-###  Programming Languages
-### 🖍️ Style
-### 🔧 Tools
+## 💻 Programming Languages and Tools
+* Java
+* Python
+* PHP
+
 
 <!--
 **AngeloC99/AngeloC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
