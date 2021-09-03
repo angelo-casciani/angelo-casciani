@@ -14,11 +14,19 @@ I'm **Angelo Casciani**, a passionate student currently enrolled in the **course
 ## 📈 GitHub Stats
 [![angelo's github stats](https://github-readme-stats.vercel.app/api?username=AngeloC99&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💻 Programming Languages and Tools
-* Java
+## 💻 Skills
 * Python
+* Java
 * PHP
-
+* HTML
+* CSS
+* C++
+* Matlab
+* MySQL
+* PostgreSQL
+* LaTeX
+* TypeScript
+* Linux/Shell
 
 <!--
 **AngeloC99/AngeloC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

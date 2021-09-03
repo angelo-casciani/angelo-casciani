@@ -1,10 +1,14 @@
 <img align="center" alt="Angelo's GitHub Banner" src="./assets/github_banner.png">
 
-### Hi 👋
+## Hi 👋
 I'm **Angelo Casciani**, a passionate student currently enrolled in the **course name** MSc at the *University of *.
+
 🎓 Graduated with a BSc in **Information Engineering** BSc at the *University of L'Aquila*.
+
 🎯 What do I want to do? My dream is to work in the field of Artificial Intelligence.
+
 ❓ Why? To develop innovative solutions that can have a positive impact on people's daily lives.
+
 🎖️ How will I do it? By committing, improving and keeping myself constantly updated in these areas.
 
 ## 📈 GitHub Stats
