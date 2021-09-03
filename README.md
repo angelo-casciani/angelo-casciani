@@ -1,4 +1,4 @@
-<img align="center" alt="Angelo's GitHub Banner" src="./assets/github_banner.png">
+<img align="center" alt="Angelo's GitHub Banner" src="./assets/github_banner.png" width=100% height=100%>
 
 ## Hi 👋
 I'm **Angelo Casciani**, a passionate student currently enrolled in the **course name** MSc at the *University of *.
