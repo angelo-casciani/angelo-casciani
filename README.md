@@ -11,7 +11,7 @@ I'm **Angelo Casciani**, a passionate student currently enrolled in the **course
 
 🎖️ How will I do it? By committing, improving and keeping myself constantly updated in these areas.
 
-⚡ Other facts about me? I'm a great open source supporter: I'm especially fascinated by the Linux kernel and my Bachelor's degree thesis revolved around the algorithms for multiprocessor scheduling in Linux environment.
+⚡ Other facts about me? I'm a great *open source* supporter: I'm especially fascinated by the *Linux kernel* and my Bachelor's degree thesis revolved around the algorithms for multiprocessor scheduling in Linux environment.
 
 ## 📈 GitHub Stats
 [![angelo's github stats](https://github-readme-stats.vercel.app/api?username=AngeloC99&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
