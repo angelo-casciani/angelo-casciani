@@ -26,18 +26,18 @@ I'm **Angelo Casciani**, a passionate student currently enrolled in the **Artifi
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Java-F68D14?style=for-the-badge&logo=java&logoColor=26738D)
 ![image](https://img.shields.io/badge/PHP-787cb5?style=for-the-badge&logo=php&logoColor=white)
-<img src="https://img.shields.io/badge/matlab-e89529?style=for-the-badge&logo=matlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-022FF9?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-f29111?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql-164d96?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/aws-37475a?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/latex-168d96?style=for-the-badge&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux/Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+![image](https://img.shields.io/badge/matlab-e89529?style=for-the-badge&logo=matlab&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-022FF9?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/mysql-f29111?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/postgresql-164d96?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/aws-37475a?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/latex-168d96?style=for-the-badge&logo=latex&logoColor=white)
+![image](https://img.shields.io/badge/Linux/Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 <!--
