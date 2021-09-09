@@ -17,23 +17,28 @@ I'm **Angelo Casciani**, a passionate student currently enrolled in the **Artifi
 <p float="left"> 
     <img width="420" height="175" alt="AngeloC99's GitHub Stats" 
          src="https://github-readme-stats.vercel.app/api?username=AngeloC99&show_icons=true&theme=nord&count_private=true&include_all_commits=true" />
-   <img width="350" height="175"  alt="AngeloC99's GitHub Stats" hspace="20"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloC99&layout=compact&theme=nord&count_private=true&include_all_commits=true" />
+   <!-- <img width="350" height="175"  alt="AngeloC99's GitHub Stats" hspace="20"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloC99&layout=compact&langs_count=10&theme=nord" />  -->
 </p>
 
 ## 💻 Languages and Tools
-* Python
-* Java
-* PHP
-* HTML
-* CSS
-* C++
-* Matlab
-* TypeScript
-* Linux/Shell
-* MySQL
-* PostgreSQL
-* LaTeX
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F68D14?style=for-the-badge&logo=java&logoColor=26738D" />
+<img src="https://img.shields.io/badge/PHP-787cb5?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/matlab-e89529?style=for-the-badge&logo=matlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-022FF9?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-f29111?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-164d96?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/aws-37475a?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/latex-168d96?style=for-the-badge&logo=latex&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux/Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 
 <!--
