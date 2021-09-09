@@ -5,21 +5,24 @@ I'm **Angelo Casciani**, a passionate student currently enrolled in the **Artifi
 
 🎓 Graduated with a BSc in **Information Engineering** BSc at the *University of L'Aquila*.
 
-🎯 What do I want to do? My dream is to work in the field of Artificial Intelligence.
+🎯 What do I want to do? My dream is to work in the field of *Artificial Intelligence*.
 
 ❓ Why? To develop innovative solutions that can have a positive impact on people's daily lives.
 
 🎖️ How will I do it? By committing, improving and keeping myself constantly updated in these areas.
 
-⚡ Other facts about me? I'm a great *open source* supporter: I'm especially fascinated by the *Linux kernel* and my Bachelor's degree thesis revolved around the algorithms for multiprocessor scheduling in Linux environment.
+⚡ Other facts about me? I'm a huge *open source* fan: I'm especially fascinated by the *Linux kernel* and my Bachelor's degree thesis revolved around the algorithms for multiprocessor scheduling in Linux environment.
 
 ## 📈 GitHub Stats
 <p float="left"> 
-   <img width="350" height="175"  alt="AngeloC99's GitHub Stats" hspace="20"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloC99&layout=compact&langs_count=10&theme=nord" />
     <img width="420" height="175" alt="AngeloC99's GitHub Stats" 
          src="https://github-readme-stats.vercel.app/api?username=AngeloC99&show_icons=true&theme=nord&count_private=true&include_all_commits=true" />
+   <img width="350" height="175"  alt="AngeloC99's GitHub Stats" hspace="20"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloC99&layout=compact&langs_count=10&theme=nord" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloC99)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 💻 Languages and Tools
 * Python
