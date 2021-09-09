@@ -18,11 +18,8 @@ I'm **Angelo Casciani**, a passionate student currently enrolled in the **Artifi
     <img width="420" height="175" alt="AngeloC99's GitHub Stats" 
          src="https://github-readme-stats.vercel.app/api?username=AngeloC99&show_icons=true&theme=nord&count_private=true&include_all_commits=true" />
    <img width="350" height="175"  alt="AngeloC99's GitHub Stats" hspace="20"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloC99&layout=compact&langs_count=10&theme=nord" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloC99&layout=compact&theme=nord&count_private=true&include_all_commits=true" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloC99)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 💻 Languages and Tools
 * Python
