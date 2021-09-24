@@ -1,7 +1,7 @@
-<img align="center" alt="Angelo's GitHub Banner" src="./assets/github_banner.png" width=100% height=100%>
+<!--<img align="center" alt="Angelo's GitHub Banner" src="./assets/github_banner.png" width=100% height=100%>-->
 
 ## 👋 Hi there!
-I'm **Angelo Casciani**, a passionate student currently enrolled in the **Artificial Intelligence and Robotics** MSc at *Sapienza University of Rome*.
+I'm **Angelo Casciani**, a passionate student currently enrolled in the **Engineering in Computer Science** MSc at *Sapienza University of Rome*.
 
 🎓 Graduated with a BSc in **Information Engineering** BSc at the *University of L'Aquila*.
 
