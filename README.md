@@ -3,7 +3,7 @@
 ## 👋 Hi there!
 I'm **Angelo Casciani**, a passionate student currently enrolled in the **Engineering in Computer Science** MSc at *Sapienza University of Rome*.
 
-If you would like to have more information about me, you can visit my LinkedIn page!
+If you would like to have more information about me, you can visit my LinkedIn [page](https://www.linkedin.com/in/angelo-casciani)!
 
 ## 📈 GitHub Stats
 <p float="left"> 
