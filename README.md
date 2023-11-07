@@ -1,7 +1,7 @@
 <!--<img align="center" alt="Angelo's GitHub Banner" src="./assets/github_banner.png" width=100% height=100%>-->
 
 ## 👋 Hi there!
-I'm **Angelo Casciani**, a passionate student currently enrolled in the **Engineering in Computer Science** MSc at *Sapienza University of Rome*.
+I'm **Angelo Casciani**, a passionate student currently enrolled in the **National PhD in Artificial Intelligence** at *Sapienza University of Rome*.
 
 If you would like to have more information about me, you can visit my LinkedIn [page](https://www.linkedin.com/in/angelo-casciani)!
 
