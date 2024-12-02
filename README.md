@@ -3,7 +3,7 @@
 ## 👋 Hi there!
 I'm **Angelo Casciani**, a passionate student currently enrolled in the **National PhD in Artificial Intelligence** at *Sapienza University of Rome*.
 
-If you would like to have more information about me, you can visit my LinkedIn [page](https://www.linkedin.com/in/angelo-casciani)!
+If you would like to have more information about me, you can visit my [website](https://sites.google.com/diag.uniroma1.it/angelo-casciani) or my LinkedIn [page](https://www.linkedin.com/in/angelo-casciani)!
 
 ## 💻 Languages and Tools
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
